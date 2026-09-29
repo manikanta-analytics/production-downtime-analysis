@@ -96,13 +96,19 @@ production-downtime-analysis/
 ├── README.md
 │
 ├── data/
-│   └── Cleaned dataset
+│   ├── Production_Downtime_Cleaned.xlsx
+│   └── README.md
 │
 ├── sql/
-│   └── SQL analysis queries
+│   ├── analysis_queries.sql
+│   └── README.md
 │
 ├── powerbi/
-│   └── Power BI dashboard files
+│   ├── Production_Downtime_Analysis.pbix
+│   └── README.md
 │
 └── screenshots/
-    └── Dashboard screenshots
+    ├── production-downtime-analysis.png
+    ├── Machine_Analysis.png
+    ├── Shift_Analysis.png
+    └── README.md
