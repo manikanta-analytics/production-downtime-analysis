@@ -105,6 +105,14 @@ Used the analysis and dashboard to identify important patterns in production dow
 
 ---
 
+---
+
+## 📈 Project Outcome
+
+This project demonstrates an end-to-end approach to analyzing production downtime data. The analysis helps identify machines, shifts, and failure causes associated with downtime and provides an interactive dashboard for monitoring production performance.
+
+---
+
 ## 📁 Repository Structure
 
 ```text
