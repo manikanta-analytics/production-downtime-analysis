@@ -62,11 +62,9 @@ Used the analysis and dashboard to identify important patterns in production dow
 
 ## 📊 Dashboard
 
-Power BI dashboard screenshots will be added here.
-
 ### Dashboard Preview
 
-*Dashboard screenshot will be added.*
+![Production Downtime Dashboard](screenshots/production-downtime-dashboard.png)
 
 ---
 
