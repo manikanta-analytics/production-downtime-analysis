@@ -88,6 +88,23 @@ Used the analysis and dashboard to identify important patterns in production dow
 - Machine-level analysis highlights differences in downtime, failure frequency, production quantity, utilization, and maintenance cost.
 ---
 
+---
+
+## 💡 Skills Demonstrated
+
+- Data Cleaning and Preparation using Excel
+- SQL Data Analysis using MySQL
+- Data Aggregation and Filtering
+- Machine-wise and Shift-wise Analysis
+- Failure and Downtime Analysis
+- KPI Calculation
+- Data Visualization using Power BI
+- Dashboard Design and Interactive Reporting
+- Business Insight Generation
+- End-to-End Data Analytics Workflow
+
+---
+
 ## 📁 Repository Structure
 
 ```text
