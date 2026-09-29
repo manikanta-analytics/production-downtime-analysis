@@ -82,10 +82,10 @@ Used the analysis and dashboard to identify important patterns in production dow
 
 - Total recorded downtime was **13,309.50 hours** across **13,104 production records**.
 - The analysis recorded **3,590 failures** across **8 machines**.
-- **PRS-03** recorded the highest downtime among the machines analyzed.
-- Downtime was distributed across the **Morning, Evening, and Night shifts**, with the Evening and Night shifts showing higher downtime than the Morning shift.
-- **Motor, Bearing, and Hydraulic** issues were among the major downtime causes in the dataset.
-- The dashboard provides machine-wise, shift-wise, cause-wise, and time-based views to support production downtime analysis.
+- **PRS-03** recorded the highest total downtime among the machines analyzed.
+- Downtime was distributed across the **Morning, Evening, and Night shifts**, with the Evening and Night shifts recording higher downtime than the Morning shift.
+- **Motor, Bearing, and Hydraulic** issues were among the major downtime causes.
+- Machine-level analysis highlights differences in downtime, failure frequency, production quantity, utilization, and maintenance cost.
 ---
 
 ## 📁 Repository Structure
