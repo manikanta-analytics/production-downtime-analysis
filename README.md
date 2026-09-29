@@ -64,7 +64,7 @@ Used the analysis and dashboard to identify important patterns in production dow
 
 ### Dashboard Preview
 
-![Production Downtime Dashboard](screenshots/production-downtime-dashboard.png)
+![Production Downtime Dashboard](screenshots/production-downtime-analysis.png)
 
 ---
 
