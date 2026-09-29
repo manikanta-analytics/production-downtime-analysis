@@ -70,10 +70,12 @@ Used the analysis and dashboard to identify important patterns in production dow
 
 ## 🔍 Key Insights
 
-The key findings will be added after completing the SQL analysis and Power BI dashboard.
-
-> Note: Insights are based on the actual project dataset and will not be added until the analysis is completed.
-
+- Total recorded downtime was **13,309.50 hours** across **13,104 production records**.
+- The analysis recorded **3,590 failures** across **8 machines**.
+- **PRS-03** recorded the highest downtime among the machines analyzed.
+- Downtime was distributed across the **Morning, Evening, and Night shifts**, with the Evening and Night shifts showing higher downtime than the Morning shift.
+- **Motor, Bearing, and Hydraulic** issues were among the major downtime causes in the dataset.
+- The dashboard provides machine-wise, shift-wise, cause-wise, and time-based views to support production downtime analysis.
 ---
 
 ## 📁 Repository Structure
